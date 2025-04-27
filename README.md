@@ -1,4 +1,4 @@
-Overview:
+# Overview:
 This project demonstrates how to leverage AWS Cloud Storage solutions like S3, EBS, EFS, and Glacier to meet different storage needs — from hosting static websites to backing up critical data and supporting high-performance applications.
 
 It covers various use cases, including:
@@ -11,7 +11,7 @@ File sharing across servers
 
 Persistent block storage for EC2 instances
 
-Services Used :
+## Services Used :
 Amazon S3 (Simple Storage Service):
 For object storage, file uploads/downloads, static website hosting, and backup.
 
